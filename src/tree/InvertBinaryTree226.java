@@ -41,7 +41,7 @@ public class InvertBinaryTree226 {
         return root;
     }
 
-    public TreeNode invertTre2(TreeNode root) {
+    public TreeNode invertTree2(TreeNode root) {
         if (root == null) return null;
         Stack<TreeNode> q = new Stack<>();
         q.push(root);

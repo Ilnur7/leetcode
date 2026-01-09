@@ -6,7 +6,7 @@ import java.util.Map;
 
 public class LRUCache146 {
 
-    public static void main(String[] args) {
+    static void main(String[] args) {
 
     }
 
